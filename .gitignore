@@ -1,0 +1,9 @@
+#Ignore below files/folders:
+
+.DS_Store
+
+#Ignore for emailapp:
+emailapp/.idea/
+emailapp/emailapp.iml
+emailapp/out/
+emailapp/.DS_Store
