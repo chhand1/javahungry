@@ -7,3 +7,10 @@ emailapp/.idea/
 emailapp/emailapp.iml
 emailapp/out/
 emailapp/.DS_Store
+
+#Ignore for BillSharingApp:
+billsharing/.idea/
+billsharing/build/
+billsharing/.DS_Store
+billsharing/.gradle/
+billsharing/gradle/
